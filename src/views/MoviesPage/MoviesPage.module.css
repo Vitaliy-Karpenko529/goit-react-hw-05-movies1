@@ -7,14 +7,14 @@
   padding: 15px 25px;
   border: none;
   border-radius: 5px;
-  background: #bbe4bb;
+  background: #0d91e8;
   margin-bottom: 25px;
 }
 
 .moviesButton:hover,
 .moviesButton:focus {
   color: #fff;
-  background: #1e6e1e;
+  background: #d59e08;
 }
 
 .moviesInput {
